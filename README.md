@@ -1,4 +1,5 @@
-To run this application, you need a MongoDB connect URI
+To run this application, you need a MongoDB connect URI.
+
 Once you have obtained the URI, create a file named ".env" in the root directory with the following content:
 
 -   MONGO_URI=<your_uri>
